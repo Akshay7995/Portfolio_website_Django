@@ -66,7 +66,12 @@ portfolio/
 The project follows the **Model-View-Template (MVT)** architecture:  
 - **Model (M):** Handles database interactions (storing projects, skills, etc.).  
 - **View (V):** Processes requests, fetches data, and sends it to templates.  
-- **Template (T):** Renders the frontend using Django’s templating engine.  
+- **Template (T):** Renders the frontend using Django’s templating engine.
+
+## **Snapshots** 
+![image](https://github.com/user-attachments/assets/9b7a47f8-abb2-462a-82f6-fb02da27a06d)
+![image](https://github.com/user-attachments/assets/6cb3e7ce-4596-4324-945a-4c2c5f85d923)
+
 
 ## **📩 Contact**  
 If you have any queries or feedback, feel free to reach out via the **Contact** section of my portfolio or through:  
