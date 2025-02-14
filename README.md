@@ -69,8 +69,9 @@ The project follows the **Model-View-Template (MVT)** architecture:
 - **Template (T):** Renders the frontend using Django’s templating engine.
 
 ## **Snapshots** 
-![image](https://github.com/user-attachments/assets/9b7a47f8-abb2-462a-82f6-fb02da27a06d)
 ![image](https://github.com/user-attachments/assets/6cb3e7ce-4596-4324-945a-4c2c5f85d923)
+
+![image](https://github.com/user-attachments/assets/9b7a47f8-abb2-462a-82f6-fb02da27a06d)
 
 
 ## **📩 Contact**  
