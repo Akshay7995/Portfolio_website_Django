@@ -1,10 +1,4 @@
-# Portfolio_website_Django
-
-Here’s a well-structured **README.md** file for your GitHub repository:  
-
----
-
-# **Personal Portfolio Website**  
+# Portfolio_website_Django 
 
 A **dynamic and responsive portfolio website** built using **Django, PostgreSQL, and Bootstrap**, following the **Model-View-Template (MVT) architecture**.  
 
